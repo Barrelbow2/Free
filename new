@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> <meta charset="utf-8"></head>
+<body>
+<h1>barrelbows website</h1>
+<input type="checkbox" value="cool-people-button id="cool-people-button">
+  <label for="cool-people-button">click if your cool</label>
+  <p>if you want something added here just ask me and ill add it if possible</p>
+  
+  
+
+
+</body>
+
+
+
+
+</html>
